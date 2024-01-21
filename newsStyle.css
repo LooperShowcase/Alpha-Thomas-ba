@@ -1,0 +1,48 @@
+p {
+    color: white;
+  }
+  
+  body {
+    background-color: rgb(234, 0, 255);
+  }
+  h2 {
+    color: white;
+  }
+  h1 {
+    color: white;
+  }
+  th,
+  td {
+    color: white;
+  }
+  #thomas {
+    width: 15%;
+    background-color: rgb(5, 2, 89);
+  }
+  #edwar{ 
+    width:20% ;
+    background-color: rgba(168, 30, 210, 0.757);
+  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
